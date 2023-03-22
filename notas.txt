@@ -1,0 +1,5 @@
+Yo como notas solo diría que tuvieras cuidado con los métodos de arrays, 
+siento que la razón por la que no terminaste y te atoraste es por que te 
+confundiste con el método.
+
+Retroalimentacion de Alexis Castañeda
